@@ -3,7 +3,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyD2gy0mjjEcsHdm31O8FAgsj3rgu_c9e5w",
   authDomain: "sfogamic.firebaseapp.com",
   projectId: "sfogamic",
-  storageBucket: "sfogamic.firebasestorage.app",
+  storageBucket: "sfogamic.appspot.com",
   messagingSenderId: "833464719356",
   appId: "1:833464719356:web:9be4b2e87b6f31dc8c0479",
   measurementId: "G-RP6VMC5TG0"
